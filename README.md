@@ -1,4 +1,4 @@
-<p><img align="left" src="" alt="ankitkumargh" /></p>
+<p><img align="left" src="https://github.com/Ankitkumargh/Ankitkumargh/blob/main/banergit.png" alt="ankitkumargh"   height = "550"/></p>
 
 <h1 align="center">Hi 👋, I'm ANKIT KUMAR</h1>
 <h3 align="center">A passionate Software Developer Engineering from India</h3>

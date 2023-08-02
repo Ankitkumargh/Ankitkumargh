@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-kumar-68a962248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-68a962248" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitkumar_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitkumar_76" height="30" width="40" /></a>
-<a href="https://www.youtube.com/https://www.youtube.com/channel/UCsEGI5-r-wN6-VfEX0f_RVw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak techpoint" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsEGI5-r-wN6-VfEX0f_RVw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak techpoint" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
